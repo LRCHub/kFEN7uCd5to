@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "芽ぐみの雨",
+  "base_artist": "yanaginagi",
+  "createdAt": "2026-02-13T09:26:46.771331Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "芽ぐみの雨",
+      "artist": "yanaginagi",
+      "has_synced": true,
+      "path": "select/01_芽ぐみの雨_yanaginagi.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "芽ぐみの雨",
+      "artist": "やなぎなぎ",
+      "has_synced": true,
+      "path": "select/02_芽ぐみの雨_やなぎなぎ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "芽ぐみの雨",
+      "artist": "Nagi Yanagi",
+      "has_synced": true,
+      "path": "select/03_芽ぐみの雨_Nagi_Yanagi.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "芽ぐみの雨",
+      "artist": "やなぎなぎ",
+      "has_synced": false,
+      "path": "select/pl_01_芽ぐみの雨_やなぎなぎ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "芽ぐみの雨",
+      "artist": "やなぎなぎ",
+      "has_synced": false,
+      "path": "select/pl_02_芽ぐみの雨_やなぎなぎ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "芽ぐみの雨",
+      "artist": "やなぎなぎ",
+      "has_synced": false,
+      "path": "select/pl_03_芽ぐみの雨_やなぎなぎ.txt"
+    }
+  ]
+}
